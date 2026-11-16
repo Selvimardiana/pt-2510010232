@@ -40,6 +40,7 @@ Folder `p09` di repository `pt-NPM` berisi `sinilai_v07.cpp`. Lihat Modul Pertem
 ## Deklarasi AI
 
 Tuliskan AI yang digunakan, prompt, dan umpan balik AI
-AI yang digunakan : GPT
-promt : Apakah hasil yang keluar sudah sesuai dengan ketentuan soal?
+
+AI yang digunakan:GPT 
+promt : Apakah hasil yang keluar sudah sesuai dengan ketentuan soal? 
 Umpan balik AI : Compiler berhasil, program berhasil dijalankan, file contoh berhasil dibaca, dan laporan kelas berhasil ditampilkan. Tinggal periksa kembali format data yang ditolak agar semua mahasiswa terbaca dengan benar.
